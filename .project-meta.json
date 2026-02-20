@@ -1,1 +1,1 @@
-{"version": "0.7.0", "status": "development", "geocoding": "opencage", "email": "nodemailer"}
+{"version": "0.7.1", "status": "development", "geocoding": "opencage", "email": "nodemailer", "uploads": "multer"}
