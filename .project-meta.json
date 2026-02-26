@@ -1,1 +1,1 @@
-{"version": "0.9.0", "status": "beta", "geocoding": "opencage", "email": "nodemailer", "uploads": "multer", "payments": "stripe", "chatbot": "flask-nlp"}
+{"version": "0.9.1", "status": "beta", "refactored": true}
