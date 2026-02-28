@@ -1,1 +1,1 @@
-{"version": "1.0.0", "status": "release", "features": ["garbage-reporting", "recycling-requests", "geocoding", "email-notifications", "admin-dashboard", "chatbot", "payments", "map-view", "leaderboard"]}
+{"version": "1.0.1", "status": "release", "security": "jwt-httponly-cookies"}
