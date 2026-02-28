@@ -1,1 +1,1 @@
-{"version": "1.0.1", "status": "release", "security": "jwt-httponly-cookies"}
+{"version": "1.0.1", "status": "release", "security": "jwt-httponly-cookies", "deployed": true}
