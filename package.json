@@ -3,12 +3,19 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "litter",
+    "waste-management",
+    "community",
+    "express",
+    "mongodb"
+  ],
+  "author": "Litter Lift contributors",
   "license": "ISC",
-  "description": "",
+  "description": "A web application for reporting and tracking litter and waste in neighborhoods.",
   "dependencies": {
     "axiom": "^0.1.6",
     "bcrypt": "^5.1.1",
